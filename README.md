@@ -1,5 +1,4 @@
 
-
 ## 👋 Olá, eu sou o Michael
 Tenho interesse especial em desenvolvimento web, automação de sistemas e integração de aplicações, sempre buscando aprender novas tecnologias e aprimorar minhas habilidades em programação. Também valorizo trabalho em equipe, organização de código e desenvolvimento orientado a boas práticas.
 
@@ -34,9 +33,9 @@ Tenho interesse especial em desenvolvimento web, automação de sistemas e integ
 ##
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omichaelsilva/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omichaelsilva/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/omichaelsilva/snk/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/michaelsilva2/michaelsilva2/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/michaelsilva2/michaelsilva2/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/michaelsilva2/michaelsilva2/output/github-contribution-grid-snake.svg" />
 </picture>
 
-> “Código limpo é como humor — quando você tem que explicar, não é tão bom.”  – Martin Fowler
+> "Código limpo é como humor — quando você tem que explicar, não é tão bom."  – Martin Fowler
